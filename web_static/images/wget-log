@@ -1,0 +1,11 @@
+--2023-12-18 13:49:46--  https://www.google.com/url?sa=i
+Resolving www.google.com (www.google.com)... 172.253.63.106, 172.253.63.103, 172.253.63.104, ...
+Connecting to www.google.com (www.google.com)|172.253.63.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/root/AirBnB_clone/web_static/images/icon_pets.png’
+
+/root/AirBnB_clone/web_static/images/icon_pets.png       [<=>                                                                                                                   ]       0  --.-KB/s               /root/AirBnB_clone/web_static/images/icon_pets.png       [ <=>                                                                                                                  ]   1.36K  --.-KB/s    in 0s      
+
+2023-12-18 13:49:46 (28.0 MB/s) - ‘/root/AirBnB_clone/web_static/images/icon_pets.png’ saved [1389]
+
